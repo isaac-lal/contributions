@@ -1,0 +1,24 @@
+{
+  "name": "contributions",
+  "version": "1.0.0",
+  "description": "contribution graph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac-lal/contributions.git"
+  },
+  "author": "Isaac Lal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaac-lal/contributions/issues"
+  },
+  "homepage": "https://github.com/isaac-lal/contributions#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "simple-git": "^3.15.1"
+  }
+}
